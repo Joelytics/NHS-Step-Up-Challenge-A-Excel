@@ -48,7 +48,8 @@ The project solves real-world analytical problems using Microsoft Excel, includi
 
 This work was completed as part of the **NHS Step Up Challenge**, a national program designed to introduce participants to health data analysis using modern tools. This submission represents **Challenge A – Excel**.
 
-
+![Static Badge](https://img.shields.io/badge/Tool-Excel-green%3F)
+![Challenge](https://img.shields.io/badge/Task-NHS--Step--Up-blue?style=flat-square)
 
 ## 👤 Author
 
